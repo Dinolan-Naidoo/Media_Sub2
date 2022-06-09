@@ -15,6 +15,7 @@ html{
 body{
     background: #00ccff;
     padding-left: 28rem;
+    z-index: -10;
 }
 
 /**********************************Side Bar Start***************************************/
