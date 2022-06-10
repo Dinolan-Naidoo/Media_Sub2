@@ -105,14 +105,10 @@ header .sci a:hover{
     position: relative;
     width: 100%;
     padding: 7rem;
-    
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-	
-	
-    
 
 }
 
@@ -123,7 +119,7 @@ header .sci a:hover{
     z-index: 1 ;
     position: center;
     background: #000000;
-    padding: 4rem;
+    padding: 3rem;
    
 }
 
