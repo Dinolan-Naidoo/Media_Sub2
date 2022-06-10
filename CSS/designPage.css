@@ -13,7 +13,7 @@ html{
 }
 
 body{
-    background: #00ccff;
+    background: #000000;
     padding-left: 28rem;
     z-index: -10;
 }
@@ -111,7 +111,7 @@ header .sci a:hover{
     justify-content: space-between;
     align-items: center;
 	
-	background: #000000;
+	
     
 
 }
@@ -122,7 +122,7 @@ header .sci a:hover{
     width: 95%;
     z-index: 1 ;
     position: center;
-    
+    background: #000000;
     padding: 4rem;
    
 }
